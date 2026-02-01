@@ -6,3 +6,5 @@ scipy
 scikit-learn 
 lifelines 
 statsmodels
+requests 
+sqlite3
